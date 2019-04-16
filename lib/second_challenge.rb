@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
 nuhash = {}
-nuhash << groceries.values 
-  nuhash.flatten
+groceries.values 
+
 
 end
