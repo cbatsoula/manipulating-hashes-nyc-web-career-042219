@@ -20,4 +20,5 @@ if attribute  == :favorite_icecream_flavors
   
 end 
 end
-contacts["Freddy Mercury"][:favorite_icecream_flavors]  
+contacts["Freddy Mercury"][:favorite_icecream_flavors]
+end
