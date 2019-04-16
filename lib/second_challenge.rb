@@ -10,9 +10,5 @@ def second_challenge
 nuhash = {}
 groceries.values 
  
- holiday_supplies[:winter].map do |holiday, supplies|
-supplies
-end.flatten
-end
 
 end
