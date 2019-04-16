@@ -9,6 +9,6 @@ def second_challenge
   #code your solution here!
 nuhash = {}
 groceries.values 
-
+groceries.values 
 
 end
